@@ -1,0 +1,6 @@
+pandas<2.2
+datasets~=3.6.0
+sqlalchemy<2.0
+pymysql
+requests
+Telethon~=1.40.0
