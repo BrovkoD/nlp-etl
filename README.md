@@ -1,6 +1,7 @@
 # NLP-ETL Pipeline for News and Telegram Analysis
 
 ## Table of Contents
+
 1.  [Project Overview](#1-project-overview)
 2.  [Technology Stack](#2-technology-stack)
 3.  [Project Structure](#3-project-structure)
@@ -10,7 +11,6 @@
     * [Building and Starting Services](#building-and-starting-services)
     * [Executing One-Time Initialization Scripts](#executing-one-time-initialization-scripts)
     * [Accessing Airflow UI](#accessing-airflow-ui)
-    * [Applying .env Changes](#applying-env-changes)
 5.  [DAGs Overview](#5-dags-overview)
 6.  [Troubleshooting](#6-troubleshooting)
 
